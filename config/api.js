@@ -1,5 +1,5 @@
-const ApiRoot = 'http://localhost:8361';
-// const ApiRoot = 'http://192.168.0.113:8361';
+//const ApiRoot = 'http://localhost:8361';
+const ApiRoot = 'https://www.struggle.ltd';
 // const ApiRoot = 'https://www.qile.club:8688';
 const ApiRootUrl = ApiRoot + '/api/'
 
