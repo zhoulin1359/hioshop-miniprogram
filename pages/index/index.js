@@ -60,8 +60,8 @@ Page({
     onShareAppMessage: function () {
         let info = wx.getStorageSync('userInfo');
         return {
-            title: '海风小店',
-            desc: '开源微信小程序商城',
+            title: '漾潮微购',
+            desc: '漾潮微购小程序商城',
             path: '/pages/index/index?id=' + info.id
         }
     },
